@@ -1,2 +1,1 @@
-# scrum-case-study
-Aplicação dos conceitos do framework Scrum em um cenário de desenvolvimento ágil
+Anaálise crítica sobre a aplicação do Scrum - Case Microsoft 
